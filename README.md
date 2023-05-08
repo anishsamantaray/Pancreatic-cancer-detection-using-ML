@@ -11,3 +11,5 @@ Link: https://www.kaggle.com/datasets/johnjdavisiv/urinary-biomarkers-for-pancre
 
 The notebook went trending on Kaggle as soon as it was published.
 
+## Kaggle Status
+The Notebook has 34 upvotes in kaggle and have won a silver medal for it
